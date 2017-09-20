@@ -4,6 +4,7 @@ body{
   background-color: white;
 }
 
+/*Ask how to make background image the same as the example*/
 .banner{
   background-image: url("../images/the-flatiron-building.png");
   background-position: center;
@@ -24,4 +25,18 @@ body{
 .title{
   font-size: 70px;
   color: white;
+}
+
+.header{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.step{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.step-description{
+  font-size: 14px;
 }
