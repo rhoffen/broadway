@@ -40,3 +40,21 @@ body{
 .step-description{
   font-size: 14px;
 }
+
+.newyork{
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+footer{
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 18px;
+}
+
+.copyright{
+  font-size: 11px;
+}
