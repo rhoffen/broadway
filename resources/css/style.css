@@ -4,7 +4,6 @@ body{
   background-color: white;
 }
 
-/*Ask how to make background image the same as the example*/
 .banner{
   background-image: url("../images/the-flatiron-building.png");
   background-position: center;
@@ -14,6 +13,15 @@ body{
 
 .banner ul{
   list-style: none;
+  padding: 0;
+}
+
+#home{
+  margin-top: 10;
+}
+
+.banner li{
+  margin-top: 30px;
 }
 
 .banner a{
@@ -25,6 +33,7 @@ body{
 .title{
   font-size: 70px;
   color: white;
+  margin-bottom: 0;
 }
 
 .header{
@@ -57,4 +66,6 @@ footer{
 
 .copyright{
   font-size: 11px;
+  margin-right: 5px;
+  padding-left: 2px;
 }
